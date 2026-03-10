@@ -2,8 +2,6 @@
 
 <img width="742" height="557" alt="Screenshot 2026-03-10 193814" src="https://github.com/user-attachments/assets/b57f7943-63d6-495a-a3ba-2789504b3c31" />
 
-Here is a **clean `README.md` description** you can use for your project.
-
 # Simple Empty Folder Hunter
 
 Simple Empty Folder Hunter is a lightweight Python desktop application that scans a selected directory and finds all empty folders inside it. It provides an easy-to-use graphical interface that allows users to quickly identify and optionally delete empty directories.
@@ -68,9 +66,3 @@ Deleting folders is permanent. Always review the results before cleaning empty f
 ## License
 
 This project is open-source and free to use.
-
-If you want, I can also:
-
-* make a **more professional GitHub README (with badges, screenshots, and sections)**
-* shorten it to a **1–2 sentence GitHub description**
-* or add a **cool project title + banner**.
